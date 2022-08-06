@@ -1,5 +1,8 @@
 package br.com.schumaker.collections;
 
+/**
+ * @author Hudson Schumaker
+ */
 public class Aluno {
 
     private String nome;
