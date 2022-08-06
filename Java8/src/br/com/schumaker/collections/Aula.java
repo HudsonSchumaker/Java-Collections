@@ -1,5 +1,8 @@
 package br.com.schumaker.collections;
 
+/**
+ * @author Hudson Schumaker
+ */
 public class Aula implements Comparable<Aula> {
 
     private String titulo;
