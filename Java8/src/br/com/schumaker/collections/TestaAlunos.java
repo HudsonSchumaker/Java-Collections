@@ -6,6 +6,9 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 
+/**
+ * @author Hudson Schumaker
+ */
 public class TestaAlunos {
 
     public static void main(String[] args) {
