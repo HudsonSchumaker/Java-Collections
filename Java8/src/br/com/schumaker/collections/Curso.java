@@ -9,6 +9,9 @@ import java.util.Map;
 import java.util.NoSuchElementException;
 import java.util.Set;
 
+/**
+ * @author Hudson Schumaker
+ */
 public class Curso {
 
     private String nome;
