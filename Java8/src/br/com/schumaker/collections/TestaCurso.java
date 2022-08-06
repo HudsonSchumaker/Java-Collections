@@ -2,6 +2,9 @@ package br.com.schumaker.collections;
 
 import java.util.List;
 
+/**
+ * @author Hudson Schumaker
+ */
 public class TestaCurso {
 
     public static void main(String[] args) {
