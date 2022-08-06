@@ -1,5 +1,8 @@
 package br.com.schumaker.collections;
 
+/**
+ * @author Hudson Schumaker
+ */
 public class TestaBuscaAlunosNoCurso {
 
     public static void main(String[] args) {
