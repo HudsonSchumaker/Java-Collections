@@ -4,6 +4,9 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.Vector;
 
+/**
+ * @author Hudson Schumaker
+ */
 public class TestaCursoComAluno {
 
     public static void main(String[] args) {
