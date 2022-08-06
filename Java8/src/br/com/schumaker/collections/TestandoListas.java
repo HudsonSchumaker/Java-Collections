@@ -3,6 +3,9 @@ package br.com.schumaker.collections;
 import java.util.ArrayList;
 import java.util.Collections;
 
+/**
+ * @author Hudson Schumaker
+ */
 public class TestandoListas {
 
     public static void main(String[] args) {
